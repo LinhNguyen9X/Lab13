@@ -1,0 +1,44 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+.bg-img1 {
+  background-color: black;
+  background-size: cover;
+  background-image: url(https://get.pxhere.com/photo/nature-mountain-snow-winter-country-underwater-snowy-aurora-outer-space-mountains-screenshot-the-sky-snowy-trees-radiance-computer-wallpaper-geological-phenomenon-the-northern-lights-zasne-en-country-shields-the-polar-circle-1404020.jpg);
+}
+
+.bg-img2 {
+  background-color: black;
+  background-size: cover;
+  background-image: url(https://png.pngtree.com/background/20230519/original/pngtree-two-people-are-outside-looking-at-the-snow-picture-image_2655362.jpg);
+}
+
+.bg-img3 {
+  background-color: black;
+  background-size: cover;
+  background-image: url(https://img.lovepik.com/photo/45005/5388.jpg_wh860.jpg);
+}
